@@ -4,8 +4,12 @@ import React from 'react';
 const WelcomeMessage = (props) => {
   return (   
 
-    <h1>Welcome, {props.name}!</h1>
+    <h1>Welcome, {props.name}! </h1>
 
   );
 };
+
+const WelcomeMessage1 = (props) => {
+  return (  )
+}
 export default WelcomeMessage;
